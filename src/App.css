@@ -30,3 +30,56 @@
   font-size: 30px;
   line-height: 35px;
 }
+
+.hero-container {
+  background-image: url('./static/images/clinic_bg.png');
+  padding: 80px 50px;    
+}
+
+.hero-panel {
+  background: rgba(147, 223, 240, 0.53);
+  box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+  padding: 48px;
+}
+
+.hero-heading {
+  font-family: 'Handjet';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 58px;
+  line-height: 72px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+}
+
+.hero-text {
+  font-family: 'Handjet';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 36px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  margin: 5px;
+
+  color: #1E1E1E;
+}
+
+.hero-button {
+  margin: 5px;
+  font-family: 'Handjet';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 36px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  text-decoration: none;
+  justify-content: center;  
+  color: #263330;
+}
