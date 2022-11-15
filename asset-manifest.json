@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/run-a-clinic/static/css/main.32a75fad.css",
+    "main.js": "/run-a-clinic/static/js/main.64cff68f.js",
+    "static/js/787.74558032.chunk.js": "/run-a-clinic/static/js/787.74558032.chunk.js",
+    "static/media/clinic_bg.png": "/run-a-clinic/static/media/clinic_bg.094de080fab3b31a0057.png",
+    "static/media/Handjet[EGRD,ESHP,wght].ttf": "/run-a-clinic/static/media/Handjet[EGRD,ESHP,wght].fcaeb9494d389268e4e9.ttf",
+    "static/media/Handjet[EGRD,ESHP,wght].woff2": "/run-a-clinic/static/media/Handjet[EGRD,ESHP,wght].e6b0c849366e751902c0.woff2",
+    "index.html": "/run-a-clinic/index.html",
+    "main.32a75fad.css.map": "/run-a-clinic/static/css/main.32a75fad.css.map",
+    "main.64cff68f.js.map": "/run-a-clinic/static/js/main.64cff68f.js.map",
+    "787.74558032.chunk.js.map": "/run-a-clinic/static/js/787.74558032.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32a75fad.css",
+    "static/js/main.64cff68f.js"
+  ]
+}
